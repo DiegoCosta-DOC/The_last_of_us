@@ -87,7 +87,7 @@ main:after{
 }
 
 .menu-lateral .icone:hover{
-    transform: scaleX(1,2);
+    transform: scale(1.2);
 }
 
 .carrossel{
