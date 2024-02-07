@@ -84,6 +84,7 @@ main:after{
     width: 30px;
     filter: invert(1);
     transition: 0.3s ease-in-out;
+    padding: 10px;
 }
 
 .menu-lateral .icone:hover{
