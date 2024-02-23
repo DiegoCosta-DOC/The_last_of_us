@@ -1,7 +1,7 @@
 <h1>Página da série The Last of Us</h1>
 
 <button>
-<a href="https://the-last-of-us-one.vercel.app/" target= "_blank" >Acesse aqui
+<a href="https://the-last-of-us-one.vercel.app/" target="_blank" >Acesse aqui
 </a> </button>
 
 <h2>�� Sobre</h2>
